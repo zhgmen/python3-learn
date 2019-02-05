@@ -53,6 +53,4 @@ if __name__ == '__main__':
         with open("output.txt",'w') as f:
             f.write(txt)
 
-来源: 实验楼
-链接: https://www.shiyanlou.com/courses/370
-本课程内容，由作者授权实验楼发布，未经允许，禁止转载、下载及非法传播
+
